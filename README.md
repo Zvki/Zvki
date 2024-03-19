@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bartosz</h1>
 <h3 align="center">I am a second year IT student on Silesian University of Technology</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zvki" alt="zvki" /></a> </p>
-
 - 🔭 I’m currently working on [PROJECT_INQ](https://github.com/Zvki/Project_INQ)
 
 - 🌱 I’m currently learning **C++ (SFML Library), Assembler, GNU R**
