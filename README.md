@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🏫 I am a beginner programming student with experience in developing projects using various programming languages, including Java, C++, JavaScript, and Assembly. I specialize in implementing algorithms, console applications, databases, and systems utilizing microcontrollers such as the ESP32. My portfolio includes projects such as games (platformers, logic, word-based), data management systems (electronic components databases, student systems), and professional garden irrigation systems.<br><br>📚 Currently, I am expanding my knowledge in backend development by working on projects in C# and Java to enhance my skills in building efficient and scalable server-side applications.</p>
+<p align="left">👨‍💻 I'm a Computer Science student and Fullstack Developer specializing in Angular and Java Spring Boot. I focus on building efficient and scalable web applications.</p>
 
 ###
 
